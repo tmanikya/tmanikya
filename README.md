@@ -11,7 +11,7 @@ I'm a Computer Science student at Arizona State University passionate about buil
 - 🔭 I'm currently working on **Interactive mission tracking dashboards at NASA/ASU**
 - 🌱 I'm learning advanced **React patterns, Three.js, and cloud architecture**
 - 💬 Ask me about **React, TypeScript, .NET Core microservices**
-- ⚡ Fun fact: **I am a strawhat pirate!**
+- ⚡ Fun fact: **I am a Strawhat Pirate!**
 - 📫 Reach me at: **tmanikya@asu.edu** or **+1-928-366-9551**
 
 ## 💼 Experience
